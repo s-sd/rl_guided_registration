@@ -3,8 +3,11 @@
 Authors: Shaheer U. Saeed [a,∗], Joao Ramalhinho [a], Nina Montana-Brown [a], Ester Bonmati [a,b], Stephen P. Pereira [c], Brian Davidson [d], Matthew J. Clarkson [a], Yipeng Hu [a]
 
 [a] Centre for Medical Image Computing, Wellcome/EPSRC Centre for Interventional & Surgical Sciences, and Department of Medical Physics & Biomedical Engineering, University College London, London, UK
+
 [b] School of Computer Science and Engineering, University of Westminster, London, UK
+
 [c] Institute for Liver and Digestive Health, University College London, London, UK
+
 [d] Division of Surgery & Interventional Science, University College London, London, UK
 
 [*] shaheer.saeed.17@ucl.ac.uk
